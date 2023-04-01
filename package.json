@@ -1,0 +1,22 @@
+{
+  "name": "landing-page-ana",
+  "version": "1.0.0",
+  "description": "pagina web ana",
+  "main": "clear",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clissmancamacho/landing-page-ana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clissmancamacho/landing-page-ana/issues"
+  },
+  "homepage": "https://github.com/clissmancamacho/landing-page-ana#readme"
+}
