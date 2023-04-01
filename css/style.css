@@ -178,7 +178,7 @@ a:focus {
   .navbar {
     position: absolute;
     width: 100%;
-    padding: 30px 60px;
+    padding: 0px 60px;
     background: transparent !important;
     border-bottom: 1px dashed rgba(256, 256, 256, 0.2);
     z-index: 9;
@@ -1381,6 +1381,11 @@ a:focus {
   .contact .contact-form {
     padding: 90px 0;
   }
+}
+
+.logo {
+  width: 225px;
+  height: 160px;
 }
 
 /*******************************/

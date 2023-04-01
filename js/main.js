@@ -31,8 +31,10 @@
   $(window).scroll(function () {
     if ($(this).scrollTop() > 0) {
       $(".navbar").addClass("nav-sticky")
+      $(".logo").attr("src", "img/logo.png")
     } else {
       $(".navbar").removeClass("nav-sticky")
+      $(".logo").attr("src", "img/logo-white.png")
     }
   })
 
